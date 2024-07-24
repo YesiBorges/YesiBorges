@@ -81,4 +81,3 @@ You can reach me through:
 - [![Email](https://img.shields.io/badge/Email-yesibetborges@gmail.com-red?style=flat-square&logo=gmail)](mailto:yesibetborges@gmail.com)
 
 ![3D Image](https://i.imgur.com/69yU5at.png)
-<a href="https://iconscout.com/3d-illustrations/web-layout-5437735" class="text-underline font-size-sm" target="_blank">Web Layout</a> by <a href="https://iconscout.com/contributors/pengedarseni" class="text-underline font-size-sm" target="_blank">Pengedar Seni</a>
