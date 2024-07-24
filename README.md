@@ -32,41 +32,42 @@ Here are some ideas to get you started:
 ## Technologies
 
 ### 📋 Languages:
-- CSS3
-- HTML5
-- JavaScript
-- Python
-- Java
-- R
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 🚀 Frameworks:
-- React
-- Bootstrap
-- JQuery
-- Spring Boot
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### ⚡ Databases:
-- MySQL
-- PostgreSQL
-- MongoDB
-- Oracle
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 👩‍💻 IDEs:
-- Eclipse
-- VSCode
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### 🕓 Version Control:
-- Git
-- GitHub
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 💻 Operating Systems:
-- Windows
-- Linux
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🥅 Others:
-- Trello
-- Slack
-- LaTeX
+- ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+- ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ## GitHub Stats
 
@@ -79,8 +80,7 @@ You can reach me through:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yesibet%20Borges-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yesibet-borges-b18b2a291/)
 - [![Email](https://img.shields.io/badge/Email-yesibetborges@gmail.com-red?style=flat-square&logo=gmail)](mailto:yesibetborges@gmail.com)
 
-## 3D Image
 
-<!-- If you have a 3D image, you can add it here -->
-![3D Image](https://lottiefiles.com/33032-web-development)
+![3D Image](https://assets7.lottiefiles.com/packages/lf20_q5pk6p1k.json)
 <a href="https://iconscout.com/lottie-animations/web-development" class="text-underline font-size-sm" target="_blank">Web Development</a> by <a href="https://iconscout.com/contributors/iconsx" class="text-underline font-size-sm" target="_blank">IconsX</a>
+
