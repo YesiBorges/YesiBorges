@@ -80,5 +80,5 @@ You can reach me through:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yesibet%20Borges-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yesibet-borges-b18b2a291/)
 - [![Email](https://img.shields.io/badge/Email-yesibetborges@gmail.com-red?style=flat-square&logo=gmail)](mailto:yesibetborges@gmail.com)
 
-
-<a href="https://iconscout.com/3d-illustrations/web-coding" class="text-underline font-size-sm" target="_blank">Web Coding</a> by <a href="https://iconscout.com/contributors/pengedarseni" class="text-underline font-size-sm" target="_blank">Pengedar Seni</a>
+![3D Image](https://i.imgur.com/69yU5at.png)
+<a href="https://iconscout.com/3d-illustrations/web-layout-5437735" class="text-underline font-size-sm" target="_blank">Web Layout</a> by <a href="https://iconscout.com/contributors/pengedarseni" class="text-underline font-size-sm" target="_blank">Pengedar Seni</a>
